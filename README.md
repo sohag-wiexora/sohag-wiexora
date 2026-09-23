@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./wiexora-github-banner.png" width="100%" alt="WIEXORA — BUILD • SECURE • INNOVATE">
+</p>
+
 # 😊 Md Sohag Chowdhuri 😊
 
 ### Full-Stack Developer · Cloud & DevOps · AI Engineering · Cybersecurity
