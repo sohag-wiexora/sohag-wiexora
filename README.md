@@ -449,9 +449,15 @@ and continuously
 <img src="https://img.shields.io/badge/EMAIL-030303?style=for-the-badge&logo=gmail&logoColor=D8AD58" alt="Email">
 </a>
 
+<a href="wiexora.dev@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-030303?style=for-the-badge&logo=gmail&logoColor=D8AD58" alt="Email">
+</a>
+
 <br><br>
 
 `mdsohagchowdhuri690@gmail.com`
+`wiexora.dev@gmail.com`
+
 
 </div>
 
