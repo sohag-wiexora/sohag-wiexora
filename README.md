@@ -2,19 +2,19 @@
 
 <img src="./hero-wiexora.gif" width="100%" alt="WIEXORA - cinematic black and gold diamond hero: BUILD • SECURE • INNOVATE - Md Sohag, founder">
 
-<img src="./assets/welcome.svg" width="100%" alt="Assalamu Alaikum wa Rahmatullahi wa Barakatuh. Welcome to WIEXORA.">
+<img src="./welcome.svg" width="100%" alt="Assalamu Alaikum wa Rahmatullahi wa Barakatuh. Welcome to WIEXORA.">
 
 </div>
 
 <br>
 
-<img src="./assets/section-01.svg" width="100%" alt="01 ABOUT">
+<img src="./section-01.svg" width="100%" alt="01 ABOUT">
 
 <table>
 <tr>
 <td width="34%" align="center" valign="middle">
 
-<img src="./assets/portrait.svg" width="300" alt="Md Sohag">
+<img src="./portrait.svg" width="300" alt="Md Sohag">
 
 </td>
 <td valign="middle">
@@ -38,37 +38,37 @@ I'm not interested in simply collecting technologies. I want to understand **how
 
 <br>
 
-<img src="./assets/section-02.svg" width="100%" alt="02 IDENTITY">
+<img src="./section-02.svg" width="100%" alt="02 IDENTITY">
 
 <div align="center">
 
-<img src="./assets/code-card.svg" width="100%" alt="wiexora.config.ts - founder Md Sohag, focus Full-Stack, Cloud and DevOps, AI Engineering, Cybersecurity">
+<img src="./code-card.svg" width="100%" alt="wiexora.config.ts - founder Md Sohag, focus Full-Stack, Cloud and DevOps, AI Engineering, Cybersecurity">
 
 </div>
 
 <br>
 
-<img src="./assets/section-03.svg" width="100%" alt="03 ENGINEERING STACK">
+<img src="./section-03.svg" width="100%" alt="03 ENGINEERING STACK">
 
 <div align="center">
 
-<img src="./assets/stack-grid.svg" width="100%" alt="Engineering stack: development, data and backend, cloud and DevOps, AI engineering, cybersecurity and creative">
+<img src="./stack-grid.svg" width="100%" alt="Engineering stack: development, data and backend, cloud and DevOps, AI engineering, cybersecurity and creative">
 
 </div>
 
 <br>
 
-<img src="./assets/section-04.svg" width="100%" alt="04 FEATURED PROJECT">
+<img src="./section-04.svg" width="100%" alt="04 FEATURED PROJECT">
 
 <div align="center">
 
-<img src="./assets/project-wiexora.svg" width="100%" alt="WIEXORA - company website and web platform, status: building">
+<img src="./project-wiexora.svg" width="100%" alt="WIEXORA - company website and web platform, status: building">
 
 </div>
 
 <br>
 
-<img src="./assets/section-05.svg" width="100%" alt="05 ACTIVITY">
+<img src="./section-05.svg" width="100%" alt="05 ACTIVITY">
 
 <div align="center">
 
@@ -89,7 +89,7 @@ I'm not interested in simply collecting technologies. I want to understand **how
 
 <br>
 
-<img src="./assets/section-06.svg" width="100%" alt="06 CREATIVE ENGINEERING">
+<img src="./section-06.svg" width="100%" alt="06 CREATIVE ENGINEERING">
 
 Before software engineering became my primary technical direction, I built professional experience in **Adobe Photoshop and digital image editing**: high-end retouching, photo manipulation, e-commerce, wedding, product and jewelry editing, ghost mannequin, background removal, object removal, color correction and creative compositing.
 
@@ -101,7 +101,7 @@ That background gives WIEXORA another dimension: **Code × Design × Intelligenc
 
 <br>
 
-<img src="./assets/section-07.svg" width="100%" alt="07 CONNECT">
+<img src="./section-07.svg" width="100%" alt="07 CONNECT">
 
 <div align="center">
 
