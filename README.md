@@ -105,8 +105,6 @@ That background gives WIEXORA another dimension: **Code × Design × Intelligenc
 
 <div align="center">
 
-<img src="./wiexora-github-banner.png" width="100%" alt="Md Sohag Chowdhuri - WIEXORA - Full-Stack, Cloud and DevOps, AI Engineering, Cybersecurity">
-
 <br>
 
 <a href="https://github.com/sohag-wiexora">
