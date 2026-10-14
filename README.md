@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-wiexora.gif" width="100%" alt="WIEXORA - cinematic black and gold diamond hero: BUILD • SECURE • INNOVATE - Md Sohag, founder">
+<img src="./hero-wiexora.gif" width="100%" alt="WIEXORA - cinematic black and gold diamond hero: BUILD • SECURE • INNOVATE - Md Sohag, founder">
 
 <img src="./assets/welcome.svg" width="100%" alt="Assalamu Alaikum wa Rahmatullahi wa Barakatuh. Welcome to WIEXORA.">
 
