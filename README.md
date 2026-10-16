@@ -105,12 +105,14 @@ That background gives WIEXORA another dimension: **Code × Design × Intelligenc
 
 <div align="center">
 
-<img src="./wiexora-github-banner.png" width="100%" alt="Md Sohag Chowdhuri - WIEXORA - Full-Stack, Cloud and DevOps, AI Engineering, Cybersecurity">
 
 <br>
 
 <a href="https://github.com/sohag-wiexora">
 <img src="https://img.shields.io/badge/GITHUB-030303?style=for-the-badge&logo=github&logoColor=F5F3EE" alt="GitHub">
+</a>
+<a href="https://linkedin.com/sohag-wiexora">
+<img src="https://img.shields.io/badge/LINKEDIN-030303?style=for-the-badge&logo=github&logoColor=F5F3EE" alt="GitHub">
 </a>
 <a href="mailto:mdsohagchowdhuri690@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-030303?style=for-the-badge&logo=gmail&logoColor=D8AD58" alt="Email">
