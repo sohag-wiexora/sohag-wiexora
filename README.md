@@ -120,7 +120,7 @@ That background gives WIEXORA another dimension: **Code × Design × Intelligenc
 </a>
 
 <a href="https://wiexora-dev-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-030303?style=for-the-badge&logo=PORTFOLIO&logoColor=D8AD58" alt="PORTFOLIO">
+<img src="https://img.shields.io/badge/PORTFOLIO-030303?style=for-the-badge&logo=Portfolio&logoColor=D8AD58" alt="PORTFOLIO">
 </a>
 
 
