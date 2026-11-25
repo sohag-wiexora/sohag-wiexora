@@ -119,6 +119,11 @@ That background gives WIEXORA another dimension: **Code × Design × Intelligenc
 <img src="https://img.shields.io/badge/EMAIL-030303?style=for-the-badge&logo=gmail&logoColor=D8AD58" alt="Email">
 </a>
 
+<a href="https://wiexora-dev-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-WEBSITE-030303?style=for-the-badge&logo=gmail&logoColor=D8AD58" alt="WEBSITE">
+</a>
+
+
 <br><br>
 
 **Build with purpose. Secure by design. Innovate without limits.**
